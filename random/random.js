@@ -21,6 +21,7 @@ const generate = () =>{
     }
     const placeholderEl= document.querySelector('#placeholder');
     placeholderEl.textContent=getRandomNumber(min,max);
+    
 }
 
 
